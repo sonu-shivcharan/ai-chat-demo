@@ -1,4 +1,4 @@
-# ✨ Aura – Your Personal AI Assistant
+# ✨ Your Personal AI Assistant
 
 Aura is a customizable personal AI assistant built with **React** and powered by Google's **Gemini Generative AI APIs**. This project provides a solid foundation for creating your own conversational AI, complete with both text and high-quality voice responses.
 
@@ -19,8 +19,8 @@ Aura is a customizable personal AI assistant built with **React** and powered by
 ### 1\. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/aura-assistant.git
-cd aura-assistant
+git clone https://github.com/sonu-shivcharan/ai-chat-demo.git
+cd ai-chat-demo
 ```
 
 ### 2\. Install dependencies
@@ -206,11 +206,3 @@ Prompt engineering is like teaching a computer how to think. You give it very sp
 
 (✨ Also speaks it out loud using TTS)
 
------
-
-## 🔮 Future Enhancements
-
-  * **Multi-turn Conversations:** Implement persisted context to support longer, more complex conversations.
-  * **Voice Input:** Add a Speech-to-Text (STT) feature to create a complete voice-in, voice-out loop.
-  * **Export Chat History:** Allow users to save or export their chat history.
-  * **More Voice Options:** Integrate options for different voices or languages from the TTS API.
