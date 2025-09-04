@@ -29,7 +29,7 @@ const App = () => {
       ...prev,
       {
         role: "assistant",
-        parts: [{ text: "Aura is typing..." }],
+        parts: [{ text: "typing..." }],
         isLoading: true,
       },
     ]);
